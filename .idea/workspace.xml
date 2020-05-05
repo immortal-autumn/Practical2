@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Practical2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c96b96d-0bd5-460a-ad8b-eaf3658fc885" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b8Y6Rmznb7dWRp2g9zhASGOi57" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="main.Impls" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\BILI\CS3105\Practical2" />
+      <recent name="E:\BILI\CS3105\Practical2\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Practical2" />
+      <option name="PROGRAM_PARAMETERS" value="./test/2/cnf250/uf250-0100.cnf 0.7 10" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practical2.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/Practical2.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Walk.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/Walk.jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="遗传算法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practical2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/Program Files (x86)" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/Program Files (x86)/遗传算法(基因突变)(1).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JAR Application.Walk.jar" />
+      <item itemvalue="JAR Application.Practical2.jar" />
+      <item itemvalue="Python.遗传算法" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JAR Application.Walk.jar" />
+        <item itemvalue="JAR Application.Practical2.jar" />
+        <item itemvalue="Python.遗传算法" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c96b96d-0bd5-460a-ad8b-eaf3658fc885" name="Default Changelist" comment="" />
+      <created>1588015011996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588015011996</updated>
+      <workItem from="1588015018102" duration="12210000" />
+      <workItem from="1588174067542" duration="3956000" />
+      <workItem from="1588237200712" duration="2869000" />
+      <workItem from="1588241342129" duration="83877000" />
+      <workItem from="1588715813090" duration="662000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="495" y="113" key="#Main" timestamp="1588686910860">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="495" y="113" key="#Main/0.0.1536.864@0.0.1536.864" timestamp="1588686910860" />
+    <state x="361" y="94" key="#Project_Structure" timestamp="1588687368359">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="94" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1588687368359" />
+    <state x="273" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588694411208">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="273" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1588694411208" />
+    <state x="532" y="243" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588455083581">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="532" y="243" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1588455083581" />
+    <state x="548" y="141" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1588276424288">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="548" y="141" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.864@0.0.1536.864" timestamp="1588276424288" />
+    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1588514504388">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1588514504388" />
+    <state x="499" y="221" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588686747131">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="221" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1588686747131" />
+    <state x="499" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588453616960">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1588453616960" />
+    <state x="503" y="65" key="#遗传算法" timestamp="1588239624412">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="503" y="65" key="#遗传算法(基因突变)(1)" timestamp="1588239389699">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="503" y="65" key="#遗传算法(基因突变)(1)/0.0.1536.864@0.0.1536.864" timestamp="1588239389699" />
+    <state x="503" y="65" key="#遗传算法(基因突变)(2)" timestamp="1588240146887">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="503" y="65" key="#遗传算法(基因突变)(2)/0.0.1536.864@0.0.1536.864" timestamp="1588240146887" />
+    <state x="503" y="65" key="#遗传算法/0.0.1536.864@0.0.1536.864" timestamp="1588239624412" />
+    <state x="532" y="323" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1588239468262">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="532" y="323" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.864@0.0.1536.864" timestamp="1588239468262" />
+    <state x="549" y="137" key="FileChooserDialogImpl" timestamp="1588240193475">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="137" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1588240193475" />
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom" timestamp="1588694694896">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1588694694896" />
+    <state width="1493" height="277" key="GridCell.Tab.0.center" timestamp="1588694694896">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1588694694896" />
+    <state width="1493" height="277" key="GridCell.Tab.0.left" timestamp="1588694694896">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1588694694896" />
+    <state width="1493" height="277" key="GridCell.Tab.0.right" timestamp="1588694694896">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1588694694896" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1588694694897">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1588694694897" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1588694694897">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1588694694897" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1588694694896">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1588694694896" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1588694694897">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1588694694897" />
+    <state x="249" y="10" key="SettingsEditor" timestamp="1588687469798">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="10" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1588687469798" />
+    <state x="598" y="294" key="classpath-attribute-editor" timestamp="1588686628911">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="598" y="294" key="classpath-attribute-editor/0.0.1536.864@0.0.1536.864" timestamp="1588686628911" />
+    <state x="477" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1588715808629">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="477" y="261" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1588715808629" />
+    <state x="209" y="59" key="new project wizard" timestamp="1588720863146">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="59" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1588720863146" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1588603234811">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1588603234811" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1588501767781">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1588501767781" />
+  </component>
+</project>
